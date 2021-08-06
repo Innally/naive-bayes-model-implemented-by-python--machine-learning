@@ -1,5 +1,5 @@
 # naive-bayes-model-implemented-by-python--machine-learning
-##dataset
+## dataset
 the dataset used already there
 
 ## report
